@@ -7,6 +7,8 @@ News App is a simple news app :newspaper_roll: which uses [News App](https://new
 
 # demo
 
+https://user-images.githubusercontent.com/72602749/203849367-b4154bd0-25de-469a-9414-6fbd55ebf152.mp4
+
 
 
 # Features and Tools
