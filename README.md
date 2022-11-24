@@ -1,6 +1,13 @@
 # News-App
 News App is a simple news app :newspaper_roll: which uses [News App](https://newsapi.org/) to fetch top news headlines from the API. The main aim of this app is to be a leading example of how to build Modern Android applications for all Android Developers
 
+<br>
+
+![photo_2022-11-24_19-58-05-removebg-preview(2)](https://user-images.githubusercontent.com/72602749/203846985-48933235-6c4f-4abf-98be-1607cd829da7.png)
+
+# demo
+
+
 
 # Features and Tools
 
@@ -10,6 +17,8 @@ News App is a simple news app :newspaper_roll: which uses [News App](https://new
 * [job](https://kotlinlang.org/api/kotlinx.coroutines/kotlinx-coroutines-core/kotlinx.coroutines/-job/)
 * [Room Database](https://developer.android.com/codelabs/android-room-with-a-view-kotlin#0)
 * [Observing your network connection with Flow](https://markonovakovic.medium.com/android-better-internet-connection-monitoring-with-kotlin-flow-feac139e2a3)
+
+
 * [Live Data](https://developer.android.com/reference/androidx/lifecycle/LiveData)
 * [Navigation component](https://developer.android.com/guide/navigation/navigation-getting-started)
 * [View binding](https://developer.android.com/topic/libraries/view-binding)
