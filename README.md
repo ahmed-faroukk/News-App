@@ -23,5 +23,5 @@ News App is a simple news app :newspaper_roll: which uses [News App](https://new
 
 
 
-# Resourse 
+
 
